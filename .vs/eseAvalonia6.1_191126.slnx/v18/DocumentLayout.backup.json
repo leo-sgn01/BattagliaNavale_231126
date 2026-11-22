@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|c:\\users\\signo\\desktop\\scuola\\classequarta\\informatica\\c#\\eseavalonia6.1_191126\\esebattaglianavale_v2\\inserimento.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|solutionrelative:esebattaglianavale_v2\\inserimento.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|c:\\users\\signo\\desktop\\scuola\\classequarta\\informatica\\c#\\eseavalonia6.1_191126\\esebattaglianavale_v2\\inserimento.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|solutionrelative:esebattaglianavale_v2\\inserimento.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|c:\\users\\signo\\desktop\\scuola\\classequarta\\informatica\\c#\\eseavalonia6.1_191126\\esebattaglianavale_v2\\grigliagioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|solutionrelative:esebattaglianavale_v2\\grigliagioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|c:\\users\\signo\\desktop\\scuola\\classequarta\\informatica\\c#\\eseavalonia6.1_191126\\esebattaglianavale_v2\\gioco.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|solutionrelative:esebattaglianavale_v2\\gioco.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|c:\\users\\signo\\desktop\\scuola\\classequarta\\informatica\\c#\\eseavalonia6.1_191126\\esebattaglianavale_v2\\menu.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|solutionrelative:esebattaglianavale_v2\\menu.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|c:\\users\\signo\\desktop\\scuola\\classequarta\\informatica\\c#\\eseavalonia6.1_191126\\esebattaglianavale_v2\\gioco.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|solutionrelative:esebattaglianavale_v2\\gioco.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|c:\\users\\signo\\desktop\\scuola\\classequarta\\informatica\\c#\\eseavalonia6.1_191126\\esebattaglianavale_v2\\menu.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|solutionrelative:esebattaglianavale_v2\\menu.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|c:\\users\\signo\\desktop\\scuola\\classequarta\\informatica\\c#\\eseavalonia6.1_191126\\esebattaglianavale_v2\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|solutionrelative:esebattaglianavale_v2\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|c:\\users\\signo\\desktop\\scuola\\classequarta\\informatica\\c#\\eseavalonia6.1_191126\\esebattaglianavale_v2\\cella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF2881-8DED-EE3F-4426-1621AF09E9D2}|eseBattagliaNavale_v2\\eseBattagliaNavale_v2.csproj|solutionrelative:esebattaglianavale_v2\\cella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cella.cs",
+              "DocumentMoniker": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Cella.cs",
+              "RelativeDocumentMoniker": "eseBattagliaNavale_v2\\Cella.cs",
+              "ToolTip": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Cella.cs",
+              "RelativeToolTip": "eseBattagliaNavale_v2\\Cella.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T10:21:39.841Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nave.cs",
+              "DocumentMoniker": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Nave.cs",
+              "RelativeDocumentMoniker": "eseBattagliaNavale_v2\\Nave.cs",
+              "ToolTip": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Nave.cs",
+              "RelativeToolTip": "eseBattagliaNavale_v2\\Nave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T10:22:54.206Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GrigliaGioco.cs",
+              "DocumentMoniker": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\GrigliaGioco.cs",
+              "RelativeDocumentMoniker": "eseBattagliaNavale_v2\\GrigliaGioco.cs",
+              "ToolTip": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\GrigliaGioco.cs",
+              "RelativeToolTip": "eseBattagliaNavale_v2\\GrigliaGioco.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv4sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T10:26:29.362Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.axaml",
+              "DocumentMoniker": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Menu.axaml",
+              "RelativeDocumentMoniker": "eseBattagliaNavale_v2\\Menu.axaml",
+              "ToolTip": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Menu.axaml",
+              "RelativeToolTip": "eseBattagliaNavale_v2\\Menu.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-19T10:20:51.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inserimento.axaml",
+              "DocumentMoniker": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Inserimento.axaml",
+              "RelativeDocumentMoniker": "eseBattagliaNavale_v2\\Inserimento.axaml",
+              "ToolTip": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Inserimento.axaml",
+              "RelativeToolTip": "eseBattagliaNavale_v2\\Inserimento.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-19T10:21:58.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gioco.axaml",
+              "DocumentMoniker": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Gioco.axaml",
+              "RelativeDocumentMoniker": "eseBattagliaNavale_v2\\Gioco.axaml",
+              "ToolTip": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Gioco.axaml",
+              "RelativeToolTip": "eseBattagliaNavale_v2\\Gioco.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-22T14:13:09.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Menu.axaml.cs",
+              "RelativeDocumentMoniker": "eseBattagliaNavale_v2\\Menu.axaml.cs",
+              "ToolTip": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Menu.axaml.cs",
+              "RelativeToolTip": "eseBattagliaNavale_v2\\Menu.axaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T10:20:50.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inserimento.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Inserimento.axaml.cs",
+              "RelativeDocumentMoniker": "eseBattagliaNavale_v2\\Inserimento.axaml.cs",
+              "ToolTip": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Inserimento.axaml.cs",
+              "RelativeToolTip": "eseBattagliaNavale_v2\\Inserimento.axaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T10:21:58.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gioco.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Gioco.axaml.cs",
+              "RelativeDocumentMoniker": "eseBattagliaNavale_v2\\Gioco.axaml.cs",
+              "ToolTip": "C:\\Users\\signo\\Desktop\\Scuola\\ClasseQuarta\\Informatica\\C#\\eseAvalonia6.1_191126\\eseBattagliaNavale_v2\\Gioco.axaml.cs",
+              "RelativeToolTip": "eseBattagliaNavale_v2\\Gioco.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T14:13:09.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

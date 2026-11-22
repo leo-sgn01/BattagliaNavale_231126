@@ -1,0 +1,24 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="eseBattagliaNavale_v2.Inserimento"
+        Title="Fase 1: Posizionamento Navi"
+        Width="480" Height="580"
+        WindowStartupLocation="CenterScreen">
+
+    <StackPanel Margin="20" Spacing="15" HorizontalAlignment="Center">
+        <TextBlock Text="POSIZIONA LA FLOTTA" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center"/>
+        <TextBlock x:Name="txtIstruzioni" Text="Prossima nave: Lunghezza 4" FontSize="14" HorizontalAlignment="Center" Foreground="#2B579A"/>
+
+    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Spacing="10">
+            <Button x:Name="btnOrientamento" Content="Orientamento: Orizzontale (destra)" Click="BtnOrientamento_Click"/>
+            <Button x:Name="btnAnnulla" Content="Annulla Ultima Nave" Click="BtnAnnulla_Click" Background="#D9534F" Foreground="White" FontWeight="Bold"/>
+        </StackPanel>
+
+        <UniformGrid x:Name="grdPosizionamento" Rows="10" Columns="10" Width="380" Height="380" Background="#E0E0E0"/>
+
+        <Button x:Name="btnVaiAlGioco" Content="CONFERMA E AVVIA GIOCO" 
+                IsEnabled="False" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"
+                Background="#28A745" Foreground="White" FontWeight="Bold" Padding="10"
+                Click="BtnVaiAlGioco_Click"/>
+    </StackPanel>
+</Window>

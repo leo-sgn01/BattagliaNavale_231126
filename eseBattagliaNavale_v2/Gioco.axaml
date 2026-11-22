@@ -1,0 +1,28 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="eseBattagliaNavale_v2.Gioco"
+        Title="Fase 2: Partita"
+        Width="750" Height="500"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid ColumnDefinitions="Auto, *" Margin="20">
+        <StackPanel Grid.Column="0" Spacing="10">
+            <TextBlock Text="CAMPO DI BATTAGLIA" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <UniformGrid x:Name="grdBattaglia" Rows="10" Columns="10" Width="380" Height="380" Background="#E0E0E0"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Margin="20,0,0,0" Spacing="15">
+            <TextBlock Text="STATISTICHE" FontSize="16" FontWeight="Bold"/>
+            
+            <Border Background="#F0F4F8" Padding="10" CornerRadius="5">
+                <StackPanel Spacing="5">
+                    <TextBlock x:Name="txtMosse" Text="Mosse: 0" FontSize="14" FontWeight="SemiBold"/>
+                    <TextBlock x:Name="txtNaviRimanenti" Text="Navi non affondate: 6" FontSize="14" FontWeight="SemiBold" Foreground="#D9534F"/>
+                </StackPanel>
+            </Border>
+
+            <TextBlock Text="REGISTRO EVENTI (LOG):" FontWeight="Bold"/>
+            <ListBox x:Name="lstLog" Height="260" BorderBrush="Gray" BorderThickness="1"/>
+        </StackPanel>
+    </Grid>
+</Window>
